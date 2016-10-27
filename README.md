@@ -8,3 +8,4 @@
 *   [Freddie Brown](https://github.com/freddieb)
 *   [Benji Marshall](https://github.com/benjimarshall)
 *   [Deep Sohelia](https://github.com/ChilliByte)
+*   [Sailesh Patel](https://github.com/SaileshPatel)
